@@ -1,0 +1,6 @@
+[submodule "libtcod-vcpkg-template"]
+	path = libtcod-vcpkg-template
+	url = https://github.com/HexDecimal/libtcod-vcpkg-template
+[submodule "libtcod"]
+	path = libtcod
+	url = https://github.com/libtcod/libtcod
